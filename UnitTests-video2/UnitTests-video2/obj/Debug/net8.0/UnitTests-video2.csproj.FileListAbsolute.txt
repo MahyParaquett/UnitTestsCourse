@@ -1,0 +1,15 @@
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Unit Testing in C#\UnitTests-video2\UnitTests-video2\bin\Debug\net8.0\UnitTests-video2.exe
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Unit Testing in C#\UnitTests-video2\UnitTests-video2\bin\Debug\net8.0\UnitTests-video2.deps.json
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Unit Testing in C#\UnitTests-video2\UnitTests-video2\bin\Debug\net8.0\UnitTests-video2.runtimeconfig.json
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Unit Testing in C#\UnitTests-video2\UnitTests-video2\bin\Debug\net8.0\UnitTests-video2.dll
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Unit Testing in C#\UnitTests-video2\UnitTests-video2\bin\Debug\net8.0\UnitTests-video2.pdb
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Unit Testing in C#\UnitTests-video2\UnitTests-video2\obj\Debug\net8.0\UnitTests-video2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Unit Testing in C#\UnitTests-video2\UnitTests-video2\obj\Debug\net8.0\UnitTests-video2.AssemblyInfoInputs.cache
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Unit Testing in C#\UnitTests-video2\UnitTests-video2\obj\Debug\net8.0\UnitTests-video2.AssemblyInfo.cs
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Unit Testing in C#\UnitTests-video2\UnitTests-video2\obj\Debug\net8.0\UnitTests-video2.csproj.CoreCompileInputs.cache
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Unit Testing in C#\UnitTests-video2\UnitTests-video2\obj\Debug\net8.0\UnitTests-video2.sourcelink.json
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Unit Testing in C#\UnitTests-video2\UnitTests-video2\obj\Debug\net8.0\UnitTests-video2.dll
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Unit Testing in C#\UnitTests-video2\UnitTests-video2\obj\Debug\net8.0\refint\UnitTests-video2.dll
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Unit Testing in C#\UnitTests-video2\UnitTests-video2\obj\Debug\net8.0\UnitTests-video2.pdb
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Unit Testing in C#\UnitTests-video2\UnitTests-video2\obj\Debug\net8.0\UnitTests-video2.genruntimeconfig.cache
+C:\Users\MahyaraParaquettCout\OneDrive - T2M - Test to Market Ltda\Documentos\treinamento-T2M\Unit Testing in C#\UnitTests-video2\UnitTests-video2\obj\Debug\net8.0\ref\UnitTests-video2.dll
